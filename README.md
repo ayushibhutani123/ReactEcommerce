@@ -1,9 +1,4 @@
-# ECommerce Training Project (Vite + React)
-
-## DAY-7
-![screencapture-localhost-5173-checkout-2024-07-12-18_22_33](https://github.com/user-attachments/assets/c0f67289-002b-4803-a137-85b172a0444e)
-
-On Day 7 of the ECommerce Training Project, we focused on improving state management across the application by implementing the Context API for a centralized cart store.
+# ECommerce Project (Vite + React)
 
 ### Context API Integration
 - Centralized Cart Store: We introduced a centralized store for managing the cart using the Context API. This ensures a single source of truth for the cart state, making it easier to manage and update across different components.
