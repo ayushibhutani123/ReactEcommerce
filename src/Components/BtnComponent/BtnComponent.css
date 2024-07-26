@@ -1,0 +1,29 @@
+.addToBasketBtn {
+    background: #ff9f00;
+    border: 1px solid;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .addToBasketBtn:hover {
+    background: #b76e00;
+  }
+  
+  .editAbleBasketBtn
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ff9f00;
+    border: 1px solid;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px 40px 0px 40px
+  }

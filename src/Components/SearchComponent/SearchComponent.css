@@ -1,0 +1,15 @@
+.header__search 
+{
+    padding-top: 20px !important;
+}
+.header__search input
+{
+    width: 20rem !important;
+    border: solid 1px gray !important;
+    padding: 2px 10px !important;
+    margin-left: 12px !important;
+}
+:hover  .header__search input
+{
+    outline: none !important;
+}

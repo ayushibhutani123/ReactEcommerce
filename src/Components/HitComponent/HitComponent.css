@@ -1,0 +1,24 @@
+.hit-item
+{
+    display: block;
+    width:80%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px 40px;
+    margin: 16px;
+}
+.hit-title
+{
+    font-size: large;
+    font-weight: 500;
+}
+.hit-itemInfo
+{
+    display: flex;
+    justify-content: space-between;
+}
+.image-container
+{
+    height: 100px;
+    width:100px;
+}
